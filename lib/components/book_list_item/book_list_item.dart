@@ -67,6 +67,8 @@ class _BookListItemState extends State<BookListItem> {
                         fontWeight: FontWeight.w800,
                         color: Theme.of(context).accentColor,
                       ),
+
+
                     ),
                   ),
                   SizedBox(height: 10.0),
@@ -77,7 +79,7 @@ class _BookListItemState extends State<BookListItem> {
                       color: Theme.of(context).textTheme.caption.color,
                     ),
                   ),
-                ],
+                ] ,
               ),
             ),
           ],
